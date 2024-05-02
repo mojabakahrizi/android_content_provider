@@ -2,7 +2,7 @@
 
 This plugin exposes ContentProvider and related ContentResolver APIs on Android.
 
-### Android 11 package visibility
+ Android 11 package visibility
 
 Android 11 introduced a security mechanism that is called a [package visibility](https://developer.android.com/training/package-visibility).
 
